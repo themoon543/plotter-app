@@ -1,9 +1,9 @@
-!pip install matplotlib
+
 import json
 import requests
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
+from matplotlib import pyplot as pl
 from streamlit_option_menu import option_menu
 import time
 import seaborn as sns
