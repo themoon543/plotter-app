@@ -3,7 +3,7 @@ import json
 import requests
 import streamlit as st
 import pandas as pd
-from matplotlib import pyplot as pl
+from matplotlib import pyplot as plt
 from streamlit_option_menu import option_menu
 import time
 import seaborn as sns
