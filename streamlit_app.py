@@ -1,4 +1,4 @@
-pip install matplotlib
+!pip install matplotlib
 import json
 import requests
 import streamlit as st
